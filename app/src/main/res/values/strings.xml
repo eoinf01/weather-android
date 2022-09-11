@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GSON_Tutorial</string>
+    <string-array name="planets_array">
+        <item>Select location..</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Dublin</item>
+        <item>Milan</item>
+        <item>Rome</item>
+        <item>Sofia</item>
+        <item>Berlin</item>
+        <item>Geneva</item>
+        <item>Kiev</item>
+        <item>Prague</item>
+        <item>Edinburgh</item>
+        <item>Moscow</item>
+        <item>Bucharest</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

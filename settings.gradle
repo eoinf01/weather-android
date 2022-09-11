@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "eoin_fehily_project_2"
